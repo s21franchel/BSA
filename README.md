@@ -115,6 +115,45 @@ Eще в рамках этого было создано видение - док
 <img width="710" alt="image" src="https://github.com/user-attachments/assets/d5d6e897-c36b-4878-bc0f-0dd5eb40277b" />
 
 
+---------------------------
+## Часть 6.
+### Cущности
+
+Для каждой задачи я выделила не менее 7 сущностей и определила ключевые атрибуты
+
+<img width="639" alt="image" src="https://github.com/user-attachments/assets/fd6c6d3c-dbd2-40c1-bad2-31663e0e6ade" />
+
+- DOST 
+
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/3d480bae-b6cd-4584-958d-a154ec5937ca" />
+
+- ONZ
+
+Проверила сущности по CRUD на полноту операций:
+
+<img width="985" alt="image" src="https://github.com/user-attachments/assets/17fe42e3-567f-499a-a93f-d93e43cbe948" />
+
+- ONZ
+
+Cоздала словарь данных для доставки, куда включила название сущностей,мнемонику,тип данных,обязательность,описание понятия
+
+<img width="690" alt="image" src="https://github.com/user-attachments/assets/c3e451ae-a4c9-4f7c-bb1c-0131cb3b0231" />
+
+И для каждой задачи построила модель данных на логическом уровне.(Логический уровень описывает данные на уровне сущностей,их взаимосвязей,ключей).Указала связи между сущностями:
+
+- DOST
+
+<img width="1057" alt="image" src="https://github.com/user-attachments/assets/34e0ef97-82ad-4010-b99f-915b055483fc" />
+
+
+- ONZ
+
+<img width="1001" alt="image" src="https://github.com/user-attachments/assets/bbfaf22c-effb-4ad5-92ce-49df71e50983" />
+
+
+
+
+
 
 
 
