@@ -249,10 +249,13 @@ Cоздала словарь данных для доставки, куда вк
 В этом проекте для задачи Запись на стрижку(onz) я построила для роли менеджера 2 US для которых расписала критерии приемки и тестовые сценарии:
 
 <img width="861" alt="image" src="https://github.com/user-attachments/assets/bb1d3009-79b7-46bf-9947-4ac2e932c31f" />
+
 - критерии приемки
 
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/c509d9bd-8586-4f2d-9c28-1f7223e9a1f6" />
+
 - тестовые сценарии
+
   
 Далее я построила еще 4 кейса с другими ролями:
 
@@ -275,6 +278,7 @@ Cоздала словарь данных для доставки, куда вк
 <img width="775" alt="Screenshot 2025-04-26 at 15 50 38" src="https://github.com/user-attachments/assets/7d67fd15-104d-4782-bfcd-34d12ed6b661" />
 
 <img width="810" alt="Screenshot 2025-04-26 at 15 50 48" src="https://github.com/user-attachments/assets/c99dd882-b89c-4f68-9832-d9656d300d69" />
+
 
 
 
