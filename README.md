@@ -291,8 +291,9 @@ Cоздала словарь данных для доставки, куда вк
 
 
 
-![Alt text](image.png)
-![Alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/0a972498-d20d-4b96-b5e1-9373fa468d98)
+
+![image](https://github.com/user-attachments/assets/1b0f5077-550a-416d-b4e3-595927e5aef6)
 
 
 
@@ -302,7 +303,10 @@ Cоздала словарь данных для доставки, куда вк
 
 Для задачи 1 описали в форме UC функциональное взаимодействие для обеспечения в системе актуального расписания услуг мастеров (без учета занятых и свободных слотов) (UC, описанный в ex.00).
 
-![Alt text](image-2.png)
+
+
+![image](https://github.com/user-attachments/assets/1b0f5077-550a-416d-b4e3-595927e5aef6)
+
 
 Опиcала в форме UC для задачи 1 взаимодействие с системой в части выбора клиентом услуг мастеров и бронирования выбранных слотов.
 
@@ -310,13 +314,18 @@ Cоздала словарь данных для доставки, куда вк
 - Выделила отдельные  UC со связью «включение» (include) и «расширение» (extend).
 - Указала тип связи для каждого выделенного UC.
 
-![Alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/4dad6f9c-a179-462c-aa98-a8b1c2fa1e07)
 
-![Alt text](image-4.png)
 
-![Alt text](image-5.png)
 
-![Alt text](image-6.png)
+![image](https://github.com/user-attachments/assets/0cc26b0c-7f7f-4b37-90fb-d21130bbde8b)
+
+
+![image](https://github.com/user-attachments/assets/184b5751-69ca-4d2d-b042-0b9d3c7eb0b4)
+
+
+![image](https://github.com/user-attachments/assets/7975922b-0ace-4b5f-923e-2dd247ce71a4)
+
 
 
 
