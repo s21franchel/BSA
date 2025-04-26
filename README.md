@@ -311,8 +311,11 @@ Cоздала словарь данных для доставки, куда вк
 - Указала тип связи для каждого выделенного UC.
 
 ![Alt text](image-3.png)
+
 ![Alt text](image-4.png)
+
 ![Alt text](image-5.png)
+
 ![Alt text](image-6.png)
 
 
